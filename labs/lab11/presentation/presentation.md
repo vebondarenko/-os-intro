@@ -1,7 +1,7 @@
 ---
 ## Front matter
 lang: ru-RU
-title: Лабораторная работа №10
+title: Лабораторная работа №11
 author: |
 	Бондаренко Елизавета Валентиновна
 institute: |
